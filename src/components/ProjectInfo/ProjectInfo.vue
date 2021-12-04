@@ -1,4 +1,5 @@
 <template>
+  <img alt="Vue logo" src="../../assets/logo.png" />
   <h1>Vue 3 + TypeScript + Vite</h1>
 
   <p>
