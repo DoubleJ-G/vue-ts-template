@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="../../assets/logo.png" />
-  <h1>Vue 3 + TypeScript + Vite</h1>
+  <h1>Vue 3 + Router + TypeScript + Linting + Testing with Vite</h1>
 
   <p>
     Recommended IDE setup:
